@@ -11,7 +11,7 @@ I am a dedicated and mission driven Frontend Developer with 1 year of experience
 * ✉️  You can contact me at [odewumimighty@gmail.com](mailto:odewumimighty@gmail.com)
 * 🧠  I'm learning React.
 * 🤝  I'm open to collaborating on Web application projects.
-* ⚡  One thing I can never do is give up coding. No matter the challenges, I will strive to overcome them.
+* ⚡  Coding is a form of art. Master its true form and you might be the next Da Vinci.
 
 ### Skills
 
