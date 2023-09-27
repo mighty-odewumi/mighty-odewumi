@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mighty Odewumi
+Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mighty Odewumi
 ======================================================================================================================================
 
 Frontend Web Developer
@@ -9,8 +9,8 @@ I am a dedicated and mission driven Frontend Developer with 1 year of experience
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://mighty-odewumi.w3spaces.com/portfolio-pdagl.html)
 * ✉️  You can contact me at [odewumimighty@gmail.com](mailto:odewumimighty@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Web application projects
+* 🧠  I'm learning React.
+* 🤝  I'm open to collaborating on Web application projects.
 * ⚡  One thing I can never do is give up coding. No matter the challenges, I will strive to overcome them.
 
 ### Skills
@@ -33,10 +33,11 @@ I am a dedicated and mission driven Frontend Developer with 1 year of experience
 
 <a href="https://github.com/mighty-odewumi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mighty-odewumi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mighty-odewumi/elements-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=elements-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mighty-odewumi/react-project-9" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=react-project-9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mighty-odewumi/elements-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=elements-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mighty-odewumi/react-project-9" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=react-project-9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
-<br /><br /><br /><br /><br />
+<!-- <br /><br /><br /><br /><br /> -->
 
-<div width="100%" align="center"><a href="https://github.com/mighty-odewumi/switcheroo-image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=switcheroo-image-gallery&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mighty-odewumi/react-project-8" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=react-project-8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!-- <div width="100%" align="center"><a href="https://github.com/mighty-odewumi/switcheroo-image-gallery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=switcheroo-image-gallery&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mighty-odewumi/react-project-8" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty-odewumi&repo=react-project-8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+-->
