@@ -1,17 +1,16 @@
 Hi, 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mighty Odewumi
 ======================================================================================================================================
 
-Frontend Web Developer
+Frontend Web/Mobile Developer 
 ----------------------
 
-I am a dedicated and mission driven Frontend Developer with over 1 year of experience using HTML5, CSS3, JavaScript and TailwindCSS to craft seamless user interfaces. I also have about 2 years of experience using the Python language. I am currently learning React to be able to implement scalable, functional and dynamic web applications.
+I am a dedicated and mission driven Frontend Developer with 2 years of experience using HTML5, CSS3, JavaScript, TailwindCSS and React to craft seamless user interfaces. I also have about 1 year of experience using the Python language. I am currently learning React Native to be able to build scalable and functional cross-platform mobile applications.
 
 * 🌍  I'm based in Nigeria
-<!-- * 🖥️  See my portfolio at [Mighty Odewumi](http://mighty-odewumi.w3spaces.com/portfolio-pdagl.html) -->
 * ✉️  You can contact me at [odewumimighty@gmail.com](mailto:odewumimighty@gmail.com)
-* 🧠  I'm learning **React** + **TailwindCSS**.
-* 🤝  I'm open to collaborating on **Web application projects**.
-* ⚡  **Coding is a form of art. Master this and you might be the next Da Vinci**.
+* 🧠  I'm building and learning with **React Native**.
+* 🤝  I'm open to collaborating on **Web and Mobile application projects**.
+* ⚡  **Coding is a form of art. Master this and you might be the next Da Vinci ;)**.
 
 ### Skills
 
