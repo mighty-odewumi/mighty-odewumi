@@ -4,7 +4,7 @@ Hi, 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Frontend Web/Mobile Developer 
 ----------------------
 
-I am a dedicated and mission driven Frontend Developer with 2 years of experience using HTML5, CSS3, JavaScript, TailwindCSS, React and NextJS to craft seamless user interfaces. I also have about 1 year of experience using the Python language. I am currently learning React Native to be able to build scalable and functional cross-platform mobile applications.
+I am a dedicated and mission driven Frontend Developer with 2 years of experience using HTML5, CSS3, JavaScript, TailwindCSS, React and NextJS to craft seamless user interfaces. I also have 2 years of experience using the Python language. I am currently learning React Native to be able to build scalable and functional cross-platform mobile applications.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [odewumimighty@gmail.com](mailto:odewumimighty@gmail.com)
