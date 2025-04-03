@@ -39,6 +39,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-seven-pied.vercel.app?user=mighty-odewumi&theme=highcontrast)](https://git.io/streak-stats)
 
+### Hacktoberfest 
+[![An image of @mightyodewumi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mightyodewumi)](https://holopin.io/@mightyodewumi)
+
+
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mighty-odewumi&" alt="mighty-odewumi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mighty-odewumi&show_icons=true&locale=en" alt="mighty-odewumi" /></p>-->
