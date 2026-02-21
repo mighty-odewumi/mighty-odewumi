@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/mighty-odewumi](https://medium.com/@odewumimighty)
 
-- 💬 Ask me about **React, Tailwind, AI**
+- 💬 Ask me about **React Native, and AI**
 
 - 📫 How to reach me **odewumimighty@gmail.com**
 
