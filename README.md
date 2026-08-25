@@ -12,7 +12,9 @@
 - 🔭 I’m currently working on a React Native mobile app called [Purizm](https://github.com/mighty-odewumi) (in stealth).
 
 - 🌱 I’m learning **about AI Agents with an Hugging Face course**
-
+  
+- My Portfolio Website [gr1ntch.dev](https://gr1ntch.dev)
+- 
 - 👨‍💻 All of my projects are available at [bit.ly/MightyOdewumi](bit.ly/MightyOdewumi)
 
 - 📝 I regularly write articles on [https://medium.com/mighty-odewumi](https://medium.com/@odewumimighty)
