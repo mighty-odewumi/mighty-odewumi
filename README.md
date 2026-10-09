@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mighty Odewumi (Gr1ntch)</h1>
-<h3 align="center">A passionate Software developer from Nigeria with 3+ years of experience.</h3>
+<h3 align="center">A passionate Software developer from Nigeria with 4 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty-odewumi&label=Profile%20views&color=0e75b6&style=flat" alt="mighty-odewumi" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **odewumimighty@gmail.com**
 
-- ⚡ In my free time, **I learn Chinese and read tech/startup blogs.**
+- ⚡ In my free time, **I learn Chinese, read tech/startup blogs and make music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
